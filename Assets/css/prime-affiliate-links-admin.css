@@ -1,0 +1,46 @@
+.a2a_svg.a2a_s__default {
+    width: 20px;
+    height: 20px;
+}
+
+.prime-affiliate-links-form-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 5px;
+}
+
+.prime-affiliate-links-form-group > label {
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.prime-affiliate-links-form-label {
+    margin-bottom: 2px;
+    font-weight: 500;
+}
+
+.prime-affiliate-links-form-help-text {
+    font-style: italic;
+}
+
+.prime-affiliate-links-form-control {
+    max-width: 100%;
+    width: 100%;
+}
+
+.prime-affiliate-links-stats-wrapper {
+    padding: 0 100px;
+    margin-bottom: 50px;
+}
+
+.prime-affiliate-links-stats-header {
+    text-align: center;
+}
+
+td.banner.column-banner {
+    vertical-align: inherit !important;
+}
+
+.prime-affiliate-links-form-notification {
+    margin-top: 6px !important;
+}
